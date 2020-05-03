@@ -1,0 +1,2383 @@
+[main]
+host = https://www.transifex.com
+
+[python-doc-es.about]
+trans.es = about.po
+source_lang = en
+type = PO
+
+[python-doc-es.bugs]
+trans.es = bugs.po
+source_lang = en
+type = PO
+
+[python-doc-es.contents]
+trans.es = contents.po
+source_lang = en
+type = PO
+
+[python-doc-es.copyright]
+trans.es = copyright.po
+source_lang = en
+type = PO
+
+[python-doc-es.glossary_]
+trans.es = glossary.po
+source_lang = en
+type = PO
+
+[python-doc-es.license]
+trans.es = license.po
+source_lang = en
+type = PO
+
+[python-doc-es.sphinx]
+trans.es = sphinx.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--abstract]
+trans.es = c-api/abstract.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--allocation]
+trans.es = c-api/allocation.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--apiabiversion]
+trans.es = c-api/apiabiversion.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--arg]
+trans.es = c-api/arg.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--bool]
+trans.es = c-api/bool.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--buffer]
+trans.es = c-api/buffer.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--bytearray]
+trans.es = c-api/bytearray.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--bytes]
+trans.es = c-api/bytes.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--capsule]
+trans.es = c-api/capsule.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--cell]
+trans.es = c-api/cell.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--code]
+trans.es = c-api/code.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--codec]
+trans.es = c-api/codec.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--complex]
+trans.es = c-api/complex.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--concrete]
+trans.es = c-api/concrete.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--contextvars]
+trans.es = c-api/contextvars.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--conversion]
+trans.es = c-api/conversion.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--coro]
+trans.es = c-api/coro.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--datetime]
+trans.es = c-api/datetime.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--descriptor]
+trans.es = c-api/descriptor.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--dict]
+trans.es = c-api/dict.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--exceptions]
+trans.es = c-api/exceptions.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--file]
+trans.es = c-api/file.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--float]
+trans.es = c-api/float.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--function]
+trans.es = c-api/function.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--gcsupport]
+trans.es = c-api/gcsupport.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--gen]
+trans.es = c-api/gen.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--import]
+trans.es = c-api/import.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--index]
+trans.es = c-api/index.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--init]
+trans.es = c-api/init.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--intro]
+trans.es = c-api/intro.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--iter]
+trans.es = c-api/iter.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--iterator]
+trans.es = c-api/iterator.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--list]
+trans.es = c-api/list.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--long]
+trans.es = c-api/long.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--mapping]
+trans.es = c-api/mapping.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--marshal]
+trans.es = c-api/marshal.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--memory]
+trans.es = c-api/memory.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--memoryview]
+trans.es = c-api/memoryview.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--method]
+trans.es = c-api/method.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--module]
+trans.es = c-api/module.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--none]
+trans.es = c-api/none.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--number]
+trans.es = c-api/number.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--objbuffer]
+trans.es = c-api/objbuffer.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--object]
+trans.es = c-api/object.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--objimpl]
+trans.es = c-api/objimpl.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--refcounting]
+trans.es = c-api/refcounting.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--reflection]
+trans.es = c-api/reflection.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--sequence]
+trans.es = c-api/sequence.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--set]
+trans.es = c-api/set.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--slice]
+trans.es = c-api/slice.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--stable]
+trans.es = c-api/stable.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--structures]
+trans.es = c-api/structures.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--sys]
+trans.es = c-api/sys.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--tuple]
+trans.es = c-api/tuple.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--type]
+trans.es = c-api/type.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--typeobj]
+trans.es = c-api/typeobj.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--unicode]
+trans.es = c-api/unicode.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--utilities]
+trans.es = c-api/utilities.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--veryhigh]
+trans.es = c-api/veryhigh.po
+source_lang = en
+type = PO
+
+[python-doc-es.c-api--weakref]
+trans.es = c-api/weakref.po
+source_lang = en
+type = PO
+
+[python-doc-es.distributing--index]
+trans.es = distributing/index.po
+source_lang = en
+type = PO
+
+[python-doc-es.distutils--apiref]
+trans.es = distutils/apiref.po
+source_lang = en
+type = PO
+
+[python-doc-es.distutils--builtdist]
+trans.es = distutils/builtdist.po
+source_lang = en
+type = PO
+
+[python-doc-es.distutils--commandref]
+trans.es = distutils/commandref.po
+source_lang = en
+type = PO
+
+[python-doc-es.distutils--configfile]
+trans.es = distutils/configfile.po
+source_lang = en
+type = PO
+
+[python-doc-es.distutils--examples]
+trans.es = distutils/examples.po
+source_lang = en
+type = PO
+
+[python-doc-es.distutils--extending]
+trans.es = distutils/extending.po
+source_lang = en
+type = PO
+
+[python-doc-es.distutils--index]
+trans.es = distutils/index.po
+source_lang = en
+type = PO
+
+[python-doc-es.distutils--introduction]
+trans.es = distutils/introduction.po
+source_lang = en
+type = PO
+
+[python-doc-es.distutils--packageindex]
+trans.es = distutils/packageindex.po
+source_lang = en
+type = PO
+
+[python-doc-es.distutils--setupscript]
+trans.es = distutils/setupscript.po
+source_lang = en
+type = PO
+
+[python-doc-es.distutils--sourcedist]
+trans.es = distutils/sourcedist.po
+source_lang = en
+type = PO
+
+[python-doc-es.distutils--uploading]
+trans.es = distutils/uploading.po
+source_lang = en
+type = PO
+
+[python-doc-es.extending--building]
+trans.es = extending/building.po
+source_lang = en
+type = PO
+
+[python-doc-es.extending--embedding]
+trans.es = extending/embedding.po
+source_lang = en
+type = PO
+
+[python-doc-es.extending--extending]
+trans.es = extending/extending.po
+source_lang = en
+type = PO
+
+[python-doc-es.extending--index]
+trans.es = extending/index.po
+source_lang = en
+type = PO
+
+[python-doc-es.extending--newtypes]
+trans.es = extending/newtypes.po
+source_lang = en
+type = PO
+
+[python-doc-es.extending--newtypes_tutorial]
+trans.es = extending/newtypes_tutorial.po
+source_lang = en
+type = PO
+
+[python-doc-es.extending--windows]
+trans.es = extending/windows.po
+source_lang = en
+type = PO
+
+[python-doc-es.faq--design]
+trans.es = faq/design.po
+source_lang = en
+type = PO
+
+[python-doc-es.faq--extending]
+trans.es = faq/extending.po
+source_lang = en
+type = PO
+
+[python-doc-es.faq--general]
+trans.es = faq/general.po
+source_lang = en
+type = PO
+
+[python-doc-es.faq--gui]
+trans.es = faq/gui.po
+source_lang = en
+type = PO
+
+[python-doc-es.faq--index]
+trans.es = faq/index.po
+source_lang = en
+type = PO
+
+[python-doc-es.faq--installed]
+trans.es = faq/installed.po
+source_lang = en
+type = PO
+
+[python-doc-es.faq--library]
+trans.es = faq/library.po
+source_lang = en
+type = PO
+
+[python-doc-es.faq--programming]
+trans.es = faq/programming.po
+source_lang = en
+type = PO
+
+[python-doc-es.faq--windows]
+trans.es = faq/windows.po
+source_lang = en
+type = PO
+
+[python-doc-es.howto--argparse]
+trans.es = howto/argparse.po
+source_lang = en
+type = PO
+
+[python-doc-es.howto--clinic]
+trans.es = howto/clinic.po
+source_lang = en
+type = PO
+
+[python-doc-es.howto--cporting]
+trans.es = howto/cporting.po
+source_lang = en
+type = PO
+
+[python-doc-es.howto--curses]
+trans.es = howto/curses.po
+source_lang = en
+type = PO
+
+[python-doc-es.howto--descriptor]
+trans.es = howto/descriptor.po
+source_lang = en
+type = PO
+
+[python-doc-es.howto--functional]
+trans.es = howto/functional.po
+source_lang = en
+type = PO
+
+[python-doc-es.howto--index]
+trans.es = howto/index.po
+source_lang = en
+type = PO
+
+[python-doc-es.howto--instrumentation]
+trans.es = howto/instrumentation.po
+source_lang = en
+type = PO
+
+[python-doc-es.howto--ipaddress]
+trans.es = howto/ipaddress.po
+source_lang = en
+type = PO
+
+[python-doc-es.howto--logging-cookbook]
+trans.es = howto/logging-cookbook.po
+source_lang = en
+type = PO
+
+[python-doc-es.howto--logging]
+trans.es = howto/logging.po
+source_lang = en
+type = PO
+
+[python-doc-es.howto--pyporting]
+trans.es = howto/pyporting.po
+source_lang = en
+type = PO
+
+[python-doc-es.howto--regex]
+trans.es = howto/regex.po
+source_lang = en
+type = PO
+
+[python-doc-es.howto--sockets]
+trans.es = howto/sockets.po
+source_lang = en
+type = PO
+
+[python-doc-es.howto--sorting]
+trans.es = howto/sorting.po
+source_lang = en
+type = PO
+
+[python-doc-es.howto--unicode]
+trans.es = howto/unicode.po
+source_lang = en
+type = PO
+
+[python-doc-es.howto--urllib2]
+trans.es = howto/urllib2.po
+source_lang = en
+type = PO
+
+[python-doc-es.install--index]
+trans.es = install/index.po
+source_lang = en
+type = PO
+
+[python-doc-es.installing--index]
+trans.es = installing/index.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--2to3]
+trans.es = library/2to3.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--__future__]
+trans.es = library/__future__.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--__main__]
+trans.es = library/__main__.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--_dummy_thread]
+trans.es = library/_dummy_thread.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--_thread]
+trans.es = library/_thread.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--abc]
+trans.es = library/abc.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--aifc]
+trans.es = library/aifc.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--allos]
+trans.es = library/allos.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--archiving]
+trans.es = library/archiving.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--argparse]
+trans.es = library/argparse.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--array]
+trans.es = library/array.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--ast]
+trans.es = library/ast.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--asynchat]
+trans.es = library/asynchat.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--asyncio-api-index]
+trans.es = library/asyncio-api-index.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--asyncio-dev]
+trans.es = library/asyncio-dev.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--asyncio-eventloop]
+trans.es = library/asyncio-eventloop.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--asyncio-exceptions]
+trans.es = library/asyncio-exceptions.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--asyncio-future]
+trans.es = library/asyncio-future.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--asyncio-llapi-index]
+trans.es = library/asyncio-llapi-index.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--asyncio-platforms]
+trans.es = library/asyncio-platforms.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--asyncio-policy]
+trans.es = library/asyncio-policy.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--asyncio-protocol]
+trans.es = library/asyncio-protocol.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--asyncio-queue]
+trans.es = library/asyncio-queue.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--asyncio-stream]
+trans.es = library/asyncio-stream.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--asyncio-subprocess]
+trans.es = library/asyncio-subprocess.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--asyncio-sync]
+trans.es = library/asyncio-sync.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--asyncio-task]
+trans.es = library/asyncio-task.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--asyncio]
+trans.es = library/asyncio.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--asyncore]
+trans.es = library/asyncore.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--atexit]
+trans.es = library/atexit.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--audioop]
+trans.es = library/audioop.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--base64]
+trans.es = library/base64.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--bdb]
+trans.es = library/bdb.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--binary]
+trans.es = library/binary.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--binascii]
+trans.es = library/binascii.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--binhex]
+trans.es = library/binhex.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--bisect]
+trans.es = library/bisect.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--builtins]
+trans.es = library/builtins.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--bz2]
+trans.es = library/bz2.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--calendar]
+trans.es = library/calendar.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--cgi]
+trans.es = library/cgi.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--cgitb]
+trans.es = library/cgitb.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--chunk]
+trans.es = library/chunk.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--cmath]
+trans.es = library/cmath.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--cmd]
+trans.es = library/cmd.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--code]
+trans.es = library/code.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--codecs]
+trans.es = library/codecs.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--codeop]
+trans.es = library/codeop.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--collections_abc]
+trans.es = library/collections.abc.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--collections]
+trans.es = library/collections.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--colorsys]
+trans.es = library/colorsys.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--compileall]
+trans.es = library/compileall.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--concurrency]
+trans.es = library/concurrency.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--concurrent_futures]
+trans.es = library/concurrent.futures.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--concurrent]
+trans.es = library/concurrent.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--configparser]
+trans.es = library/configparser.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--constants]
+trans.es = library/constants.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--contextlib]
+trans.es = library/contextlib.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--contextvars]
+trans.es = library/contextvars.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--copy]
+trans.es = library/copy.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--copyreg]
+trans.es = library/copyreg.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--crypt]
+trans.es = library/crypt.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--crypto]
+trans.es = library/crypto.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--csv]
+trans.es = library/csv.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--ctypes]
+trans.es = library/ctypes.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--curses_ascii]
+trans.es = library/curses.ascii.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--curses_panel]
+trans.es = library/curses.panel.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--curses]
+trans.es = library/curses.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--custominterp]
+trans.es = library/custominterp.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--dataclasses]
+trans.es = library/dataclasses.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--datatypes]
+trans.es = library/datatypes.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--datetime]
+trans.es = library/datetime.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--dbm]
+trans.es = library/dbm.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--debug]
+trans.es = library/debug.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--decimal]
+trans.es = library/decimal.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--development]
+trans.es = library/development.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--difflib]
+trans.es = library/difflib.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--dis]
+trans.es = library/dis.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--distribution]
+trans.es = library/distribution.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--distutils]
+trans.es = library/distutils.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--doctest]
+trans.es = library/doctest.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--dummy_threading]
+trans.es = library/dummy_threading.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--email_charset]
+trans.es = library/email.charset.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--email_compat32-message]
+trans.es = library/email.compat32-message.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--email_contentmanager]
+trans.es = library/email.contentmanager.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--email_encoders]
+trans.es = library/email.encoders.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--email_errors]
+trans.es = library/email.errors.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--email_examples]
+trans.es = library/email.examples.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--email_generator]
+trans.es = library/email.generator.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--email_header]
+trans.es = library/email.header.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--email_headerregistry]
+trans.es = library/email.headerregistry.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--email_iterators]
+trans.es = library/email.iterators.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--email_message]
+trans.es = library/email.message.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--email_mime]
+trans.es = library/email.mime.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--email_parser]
+trans.es = library/email.parser.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--email_policy]
+trans.es = library/email.policy.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--email]
+trans.es = library/email.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--email_utils]
+trans.es = library/email.utils.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--ensurepip]
+trans.es = library/ensurepip.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--enum]
+trans.es = library/enum.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--errno]
+trans.es = library/errno.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--exceptions]
+trans.es = library/exceptions.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--faulthandler]
+trans.es = library/faulthandler.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--fcntl]
+trans.es = library/fcntl.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--filecmp]
+trans.es = library/filecmp.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--fileformats]
+trans.es = library/fileformats.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--fileinput]
+trans.es = library/fileinput.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--filesys]
+trans.es = library/filesys.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--fnmatch]
+trans.es = library/fnmatch.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--formatter]
+trans.es = library/formatter.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--fractions]
+trans.es = library/fractions.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--frameworks]
+trans.es = library/frameworks.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--ftplib]
+trans.es = library/ftplib.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--functional]
+trans.es = library/functional.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--functions]
+trans.es = library/functions.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--functools]
+trans.es = library/functools.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--gc]
+trans.es = library/gc.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--getopt]
+trans.es = library/getopt.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--getpass]
+trans.es = library/getpass.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--gettext]
+trans.es = library/gettext.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--glob]
+trans.es = library/glob.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--grp]
+trans.es = library/grp.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--gzip]
+trans.es = library/gzip.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--hashlib]
+trans.es = library/hashlib.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--heapq]
+trans.es = library/heapq.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--hmac]
+trans.es = library/hmac.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--html_entities]
+trans.es = library/html.entities.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--html_parser]
+trans.es = library/html.parser.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--html]
+trans.es = library/html.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--http_client]
+trans.es = library/http.client.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--http_cookiejar]
+trans.es = library/http.cookiejar.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--http_cookies]
+trans.es = library/http.cookies.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--http]
+trans.es = library/http.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--http_server]
+trans.es = library/http.server.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--i18n]
+trans.es = library/i18n.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--idle]
+trans.es = library/idle.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--imaplib]
+trans.es = library/imaplib.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--imghdr]
+trans.es = library/imghdr.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--imp]
+trans.es = library/imp.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--importlib]
+trans.es = library/importlib.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--index]
+trans.es = library/index.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--inspect]
+trans.es = library/inspect.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--internet]
+trans.es = library/internet.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--intro]
+trans.es = library/intro.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--io]
+trans.es = library/io.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--ipaddress]
+trans.es = library/ipaddress.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--ipc]
+trans.es = library/ipc.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--itertools]
+trans.es = library/itertools.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--json]
+trans.es = library/json.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--keyword]
+trans.es = library/keyword.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--language]
+trans.es = library/language.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--linecache]
+trans.es = library/linecache.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--locale]
+trans.es = library/locale.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--logging_config]
+trans.es = library/logging.config.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--logging_handlers]
+trans.es = library/logging.handlers.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--logging]
+trans.es = library/logging.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--lzma]
+trans.es = library/lzma.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--macpath]
+trans.es = library/macpath.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--mailbox]
+trans.es = library/mailbox.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--mailcap]
+trans.es = library/mailcap.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--markup]
+trans.es = library/markup.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--marshal]
+trans.es = library/marshal.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--math]
+trans.es = library/math.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--mimetypes]
+trans.es = library/mimetypes.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--misc]
+trans.es = library/misc.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--mm]
+trans.es = library/mm.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--mmap]
+trans.es = library/mmap.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--modulefinder]
+trans.es = library/modulefinder.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--modules]
+trans.es = library/modules.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--msilib]
+trans.es = library/msilib.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--msvcrt]
+trans.es = library/msvcrt.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--multiprocessing]
+trans.es = library/multiprocessing.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--netdata]
+trans.es = library/netdata.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--netrc]
+trans.es = library/netrc.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--nis]
+trans.es = library/nis.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--nntplib]
+trans.es = library/nntplib.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--numbers]
+trans.es = library/numbers.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--numeric]
+trans.es = library/numeric.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--operator]
+trans.es = library/operator.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--optparse]
+trans.es = library/optparse.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--os_path]
+trans.es = library/os.path.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--os]
+trans.es = library/os.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--ossaudiodev]
+trans.es = library/ossaudiodev.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--othergui]
+trans.es = library/othergui.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--parser]
+trans.es = library/parser.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--pathlib]
+trans.es = library/pathlib.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--pdb]
+trans.es = library/pdb.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--persistence]
+trans.es = library/persistence.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--pickle]
+trans.es = library/pickle.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--pickletools]
+trans.es = library/pickletools.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--pipes]
+trans.es = library/pipes.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--pkgutil]
+trans.es = library/pkgutil.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--platform]
+trans.es = library/platform.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--plistlib]
+trans.es = library/plistlib.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--poplib]
+trans.es = library/poplib.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--posix]
+trans.es = library/posix.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--pprint]
+trans.es = library/pprint.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--profile]
+trans.es = library/profile.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--pty]
+trans.es = library/pty.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--pwd]
+trans.es = library/pwd.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--py_compile]
+trans.es = library/py_compile.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--pyclbr]
+trans.es = library/pyclbr.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--pydoc]
+trans.es = library/pydoc.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--pyexpat]
+trans.es = library/pyexpat.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--python]
+trans.es = library/python.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--queue]
+trans.es = library/queue.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--quopri]
+trans.es = library/quopri.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--random]
+trans.es = library/random.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--re]
+trans.es = library/re.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--readline]
+trans.es = library/readline.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--reprlib]
+trans.es = library/reprlib.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--resource]
+trans.es = library/resource.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--rlcompleter]
+trans.es = library/rlcompleter.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--runpy]
+trans.es = library/runpy.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--sched]
+trans.es = library/sched.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--secrets]
+trans.es = library/secrets.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--select]
+trans.es = library/select.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--selectors]
+trans.es = library/selectors.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--shelve]
+trans.es = library/shelve.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--shlex]
+trans.es = library/shlex.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--shutil]
+trans.es = library/shutil.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--signal]
+trans.es = library/signal.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--site]
+trans.es = library/site.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--smtpd]
+trans.es = library/smtpd.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--smtplib]
+trans.es = library/smtplib.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--sndhdr]
+trans.es = library/sndhdr.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--socket]
+trans.es = library/socket.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--socketserver]
+trans.es = library/socketserver.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--spwd]
+trans.es = library/spwd.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--sqlite3]
+trans.es = library/sqlite3.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--ssl]
+trans.es = library/ssl.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--stat]
+trans.es = library/stat.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--statistics]
+trans.es = library/statistics.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--stdtypes]
+trans.es = library/stdtypes.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--string]
+trans.es = library/string.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--stringprep]
+trans.es = library/stringprep.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--struct]
+trans.es = library/struct.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--subprocess]
+trans.es = library/subprocess.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--sunau]
+trans.es = library/sunau.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--superseded]
+trans.es = library/superseded.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--symbol]
+trans.es = library/symbol.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--symtable]
+trans.es = library/symtable.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--sys]
+trans.es = library/sys.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--sysconfig]
+trans.es = library/sysconfig.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--syslog]
+trans.es = library/syslog.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--tabnanny]
+trans.es = library/tabnanny.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--tarfile]
+trans.es = library/tarfile.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--telnetlib]
+trans.es = library/telnetlib.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--tempfile]
+trans.es = library/tempfile.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--termios]
+trans.es = library/termios.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--test]
+trans.es = library/test.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--text]
+trans.es = library/text.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--textwrap]
+trans.es = library/textwrap.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--threading]
+trans.es = library/threading.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--time]
+trans.es = library/time.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--timeit]
+trans.es = library/timeit.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--tk]
+trans.es = library/tk.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--tkinter]
+trans.es = library/tkinter.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--tkinter_scrolledtext]
+trans.es = library/tkinter.scrolledtext.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--tkinter_tix]
+trans.es = library/tkinter.tix.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--tkinter_ttk]
+trans.es = library/tkinter.ttk.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--token]
+trans.es = library/token.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--tokenize]
+trans.es = library/tokenize.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--trace]
+trans.es = library/trace.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--traceback]
+trans.es = library/traceback.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--tracemalloc]
+trans.es = library/tracemalloc.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--tty]
+trans.es = library/tty.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--turtle]
+trans.es = library/turtle.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--types]
+trans.es = library/types.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--typing]
+trans.es = library/typing.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--undoc]
+trans.es = library/undoc.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--unicodedata]
+trans.es = library/unicodedata.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--unittest_mock-examples]
+trans.es = library/unittest.mock-examples.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--unittest_mock]
+trans.es = library/unittest.mock.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--unittest]
+trans.es = library/unittest.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--unix]
+trans.es = library/unix.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--urllib_error]
+trans.es = library/urllib.error.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--urllib_parse]
+trans.es = library/urllib.parse.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--urllib]
+trans.es = library/urllib.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--urllib_request]
+trans.es = library/urllib.request.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--urllib_robotparser]
+trans.es = library/urllib.robotparser.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--uu]
+trans.es = library/uu.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--uuid]
+trans.es = library/uuid.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--venv]
+trans.es = library/venv.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--warnings]
+trans.es = library/warnings.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--wave]
+trans.es = library/wave.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--weakref]
+trans.es = library/weakref.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--webbrowser]
+trans.es = library/webbrowser.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--windows]
+trans.es = library/windows.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--winreg]
+trans.es = library/winreg.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--winsound]
+trans.es = library/winsound.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--wsgiref]
+trans.es = library/wsgiref.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--xdrlib]
+trans.es = library/xdrlib.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--xml_dom_minidom]
+trans.es = library/xml.dom.minidom.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--xml_dom]
+trans.es = library/xml.dom.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--xml_dom_pulldom]
+trans.es = library/xml.dom.pulldom.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--xml_etree_elementtree]
+trans.es = library/xml.etree.elementtree.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--xml]
+trans.es = library/xml.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--xml_sax_handler]
+trans.es = library/xml.sax.handler.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--xml_sax]
+trans.es = library/xml.sax.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--xml_sax_reader]
+trans.es = library/xml.sax.reader.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--xml_sax_utils]
+trans.es = library/xml.sax.utils.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--xmlrpc_client]
+trans.es = library/xmlrpc.client.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--xmlrpc]
+trans.es = library/xmlrpc.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--xmlrpc_server]
+trans.es = library/xmlrpc.server.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--zipapp]
+trans.es = library/zipapp.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--zipfile]
+trans.es = library/zipfile.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--zipimport]
+trans.es = library/zipimport.po
+source_lang = en
+type = PO
+
+[python-doc-es.library--zlib]
+trans.es = library/zlib.po
+source_lang = en
+type = PO
+
+[python-doc-es.reference--compound_stmts]
+trans.es = reference/compound_stmts.po
+source_lang = en
+type = PO
+
+[python-doc-es.reference--datamodel]
+trans.es = reference/datamodel.po
+source_lang = en
+type = PO
+
+[python-doc-es.reference--executionmodel]
+trans.es = reference/executionmodel.po
+source_lang = en
+type = PO
+
+[python-doc-es.reference--expressions]
+trans.es = reference/expressions.po
+source_lang = en
+type = PO
+
+[python-doc-es.reference--grammar]
+trans.es = reference/grammar.po
+source_lang = en
+type = PO
+
+[python-doc-es.reference--import]
+trans.es = reference/import.po
+source_lang = en
+type = PO
+
+[python-doc-es.reference--index]
+trans.es = reference/index.po
+source_lang = en
+type = PO
+
+[python-doc-es.reference--introduction]
+trans.es = reference/introduction.po
+source_lang = en
+type = PO
+
+[python-doc-es.reference--lexical_analysis]
+trans.es = reference/lexical_analysis.po
+source_lang = en
+type = PO
+
+[python-doc-es.reference--simple_stmts]
+trans.es = reference/simple_stmts.po
+source_lang = en
+type = PO
+
+[python-doc-es.reference--toplevel_components]
+trans.es = reference/toplevel_components.po
+source_lang = en
+type = PO
+
+[python-doc-es.tutorial--appendix]
+trans.es = tutorial/appendix.po
+source_lang = en
+type = PO
+
+[python-doc-es.tutorial--appetite]
+trans.es = tutorial/appetite.po
+source_lang = en
+type = PO
+
+[python-doc-es.tutorial--classes]
+trans.es = tutorial/classes.po
+source_lang = en
+type = PO
+
+[python-doc-es.tutorial--controlflow]
+trans.es = tutorial/controlflow.po
+source_lang = en
+type = PO
+
+[python-doc-es.tutorial--datastructures]
+trans.es = tutorial/datastructures.po
+source_lang = en
+type = PO
+
+[python-doc-es.tutorial--errors]
+trans.es = tutorial/errors.po
+source_lang = en
+type = PO
+
+[python-doc-es.tutorial--floatingpoint]
+trans.es = tutorial/floatingpoint.po
+source_lang = en
+type = PO
+
+[python-doc-es.tutorial--index]
+trans.es = tutorial/index.po
+source_lang = en
+type = PO
+
+[python-doc-es.tutorial--inputoutput]
+trans.es = tutorial/inputoutput.po
+source_lang = en
+type = PO
+
+[python-doc-es.tutorial--interactive]
+trans.es = tutorial/interactive.po
+source_lang = en
+type = PO
+
+[python-doc-es.tutorial--interpreter]
+trans.es = tutorial/interpreter.po
+source_lang = en
+type = PO
+
+[python-doc-es.tutorial--introduction]
+trans.es = tutorial/introduction.po
+source_lang = en
+type = PO
+
+[python-doc-es.tutorial--modules]
+trans.es = tutorial/modules.po
+source_lang = en
+type = PO
+
+[python-doc-es.tutorial--stdlib]
+trans.es = tutorial/stdlib.po
+source_lang = en
+type = PO
+
+[python-doc-es.tutorial--stdlib2]
+trans.es = tutorial/stdlib2.po
+source_lang = en
+type = PO
+
+[python-doc-es.tutorial--venv]
+trans.es = tutorial/venv.po
+source_lang = en
+type = PO
+
+[python-doc-es.tutorial--whatnow]
+trans.es = tutorial/whatnow.po
+source_lang = en
+type = PO
+
+[python-doc-es.using--cmdline]
+trans.es = using/cmdline.po
+source_lang = en
+type = PO
+
+[python-doc-es.using--editors]
+trans.es = using/editors.po
+source_lang = en
+type = PO
+
+[python-doc-es.using--index]
+trans.es = using/index.po
+source_lang = en
+type = PO
+
+[python-doc-es.using--mac]
+trans.es = using/mac.po
+source_lang = en
+type = PO
+
+[python-doc-es.using--unix]
+trans.es = using/unix.po
+source_lang = en
+type = PO
+
+[python-doc-es.using--windows]
+trans.es = using/windows.po
+source_lang = en
+type = PO
+
+[python-doc-es.whatsnew--2_0]
+trans.es = whatsnew/2.0.po
+source_lang = en
+type = PO
+
+[python-doc-es.whatsnew--2_1]
+trans.es = whatsnew/2.1.po
+source_lang = en
+type = PO
+
+[python-doc-es.whatsnew--2_2]
+trans.es = whatsnew/2.2.po
+source_lang = en
+type = PO
+
+[python-doc-es.whatsnew--2_3]
+trans.es = whatsnew/2.3.po
+source_lang = en
+type = PO
+
+[python-doc-es.whatsnew--2_4]
+trans.es = whatsnew/2.4.po
+source_lang = en
+type = PO
+
+[python-doc-es.whatsnew--2_5]
+trans.es = whatsnew/2.5.po
+source_lang = en
+type = PO
+
+[python-doc-es.whatsnew--2_6]
+trans.es = whatsnew/2.6.po
+source_lang = en
+type = PO
+
+[python-doc-es.whatsnew--2_7]
+trans.es = whatsnew/2.7.po
+source_lang = en
+type = PO
+
+[python-doc-es.whatsnew--3_0]
+trans.es = whatsnew/3.0.po
+source_lang = en
+type = PO
+
+[python-doc-es.whatsnew--3_1]
+trans.es = whatsnew/3.1.po
+source_lang = en
+type = PO
+
+[python-doc-es.whatsnew--3_2]
+trans.es = whatsnew/3.2.po
+source_lang = en
+type = PO
+
+[python-doc-es.whatsnew--3_3]
+trans.es = whatsnew/3.3.po
+source_lang = en
+type = PO
+
+[python-doc-es.whatsnew--3_4]
+trans.es = whatsnew/3.4.po
+source_lang = en
+type = PO
+
+[python-doc-es.whatsnew--3_5]
+trans.es = whatsnew/3.5.po
+source_lang = en
+type = PO
+
+[python-doc-es.whatsnew--3_6]
+trans.es = whatsnew/3.6.po
+source_lang = en
+type = PO
+
+[python-doc-es.whatsnew--3_7]
+trans.es = whatsnew/3.7.po
+source_lang = en
+type = PO
+
+[python-doc-es.whatsnew--changelog]
+trans.es = whatsnew/changelog.po
+source_lang = en
+type = PO
+
+[python-doc-es.whatsnew--index]
+trans.es = whatsnew/index.po
+source_lang = en
+type = PO
+

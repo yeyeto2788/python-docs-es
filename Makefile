@@ -20,7 +20,7 @@ CPYTHON_WORKDIR     := $(WORKDIRS)/cpython
 LOCALE_DIR          := $(WORKDIRS)/locale
 JOBS                := auto
 SPHINXERRORHANDLING := "-W"
-TRANSIFEX_PROJECT   := python-newest
+TRANSIFEX_PROJECT   := python-doc-es
 POSPELL_TMP_DIR     := .pospell
 
 
